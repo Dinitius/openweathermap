@@ -1,0 +1,4 @@
+export const CREATE_CARD = 'CARD/CREATE_CARD'
+export const LOCAL_CARD = 'CARD/LOCAL_CARD'
+export const REMOVE_CARD = 'CARD/REMOVE_CARD'
+export const SHOW_MORE = 'CARD/SHOW_MORE'
